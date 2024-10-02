@@ -1,0 +1,21 @@
+[ {
+  "idProducto" : 1,
+  "nombre" : "Paquete de Chocolates Granadas",
+  "cantidad" : 110,
+  "estado" : "Existencia"
+}, {
+  "idProducto" : 2,
+  "nombre" : "Paquete de Tortrix (Surtido)",
+  "cantidad" : 250,
+  "estado" : "Existencia"
+}, {
+  "idProducto" : 3,
+  "nombre" : "Paquete de Gasesosa (Surtido)",
+  "cantidad" : 100,
+  "estado" : "Existencia"
+}, {
+  "idProducto" : 4,
+  "nombre" : "Paquete de Dulces y Bombones (variado)",
+  "cantidad" : 75,
+  "estado" : "Existencia"
+} ]

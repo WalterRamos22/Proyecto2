@@ -1,0 +1,18 @@
+[ {
+  "nit" : "7565027-4",
+  "nombre" : "Walter_Ramos",
+  "direccion" : "8Avenida",
+  "telefono" : "5523-0243",
+  "pedidos" : [ {
+    "idPedido" : 38,
+    "fecha" : 1727847519872,
+    "estado" : "Despachado",
+    "nit" : "7565027-4",
+    "productos" : [ {
+      "idProducto" : 1,
+      "nombre" : "Paquete de Chocolates Granadas",
+      "cantidad" : 40,
+      "estado" : "Existencia"
+    } ]
+  } ]
+} ]
